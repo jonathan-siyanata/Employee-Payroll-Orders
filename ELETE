@@ -1,0 +1,5 @@
+HTTP/1.1 200 
+Content-Type: application/hal+json
+Transfer-Encoding: chunked
+Date: Tue, 27 Apr 2021 16:56:48 GMT
+
